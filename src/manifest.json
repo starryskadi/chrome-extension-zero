@@ -7,8 +7,7 @@
       "default_icon": "logo.png",
       "default_title": "Chrome Base Extension",
       "default_popup": "index.html"
-    },
-    "permissions": ["devtool"],
+    },    
     "options_page": "options.html",
     "background": {
       "service_worker": "scripts/background.js"
